@@ -26,7 +26,7 @@ A web-based quiz platform built with [your tech stack, e.g., MERN stack].
 
 ## Screenshots
 ### Home Page
-![Home Page](screenshots/HomePge.png)
+![Home Page](screenshots/HomePage.png)
 
 ### Quiz Page
 ![Quiz Page](screenshots/QuizPage.png)
